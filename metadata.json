@@ -1,0 +1,5 @@
+{
+  "name": "DataPulse",
+  "description": "A live-updating dashboard visualizing global digital and human statistics in real-time.",
+  "requestFramePermissions": []
+}
