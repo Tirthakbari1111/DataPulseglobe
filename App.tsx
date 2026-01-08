@@ -165,7 +165,7 @@ export default function App() {
 
       {/* Footer */}
       <footer className="relative z-10 bg-white/30 dark:bg-slate-950/60 backdrop-blur-xl border-t border-slate-200 dark:border-white/5 mt-auto">
-        <div className="max-w-7xl mx-auto px-6 py-16">
+        <div className="max-w-7xl mx-auto px-6 py-32">
             <div className="grid grid-cols-1 md:grid-cols-3 gap-12 mb-16 text-slate-600 dark:text-slate-300">
                 <div className="space-y-4">
                     <div className="flex items-center gap-2 text-cyan-700 dark:text-cyan-400 font-semibold mb-2">
